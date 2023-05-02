@@ -1,4 +1,4 @@
-# Web_Application_Micro-Social-Platform
+# Web Application Micro-Social-Platform
 
 ## În cadrul acestui proiect am folosit arhitectura MVC în C# și am realizat o mini platformă de socializare.
 
